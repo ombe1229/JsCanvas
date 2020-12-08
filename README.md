@@ -1,1 +1,1 @@
-# JsCanvas
+# JsPaint
